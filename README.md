@@ -1,3 +1,3 @@
 # Import
 This is my first Git Repository.<br>
-Author - Ishika Gupta
+Author - Ishika Gupta Coder.
